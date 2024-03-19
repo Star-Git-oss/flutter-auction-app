@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/banner.png" title="Online Auction App">
+  <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/banner.png" title="Online Auction App">
 </p>
 
 Flutter Online Auction App is a mobile application built with Flutter. It allows users to participate in online auctions, browse products, place bids, and manage their account.
@@ -21,15 +21,15 @@ See also: [Online Auction App Backend](https://github.com/Star-Git-oss/ci4_onlin
 
 |               | <p align="center">Light Theme</p> | <p align="center"> Dark Theme</p> |
 |---------------|-----------------------------------|-----------------------------------|
-| Explore page  | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/explore-gif.gif">    | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/explore-dark.png">  |
-| Auction Detail| <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/auction-detail-light.png"> | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/auction-detail-dark.png"> |
-| Login page    | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/login-light.png">    | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/login-dark.png">    |
-| Register page | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/register-light.png"> | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/register-dark.png"> |
-| My Bid        | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-bid-light.png">   | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-bid-dark.png">   |
-| My Item       | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-item-light.png">  | <img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-item-dark.png">  |
-| My Auction    |<img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-auction-light.png">|<img src="https://github.com/Star-Git-oss/Flutter-Auction-App/raw/master/images/screenshots/my-auction-dark.png">|
+| Explore page  | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/explore-gif.gif">    | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/explore-dark.png">  |
+| Auction Detail| <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/auction-detail-light.png"> | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/auction-detail-dark.png"> |
+| Login page    | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/login-light.png">    | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/login-dark.png">    |
+| Register page | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/register-light.png"> | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/register-dark.png"> |
+| My Bid        | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-bid-light.png">   | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-bid-dark.png">   |
+| My Item       | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-item-light.png">  | <img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-item-dark.png">  |
+| My Auction    |<img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-auction-light.png">|<img src="https://github.com/Star-Git-oss/flutter-Auction-App/raw/master/images/screenshots/my-auction-dark.png">|
 
-<a href="https://github.com/Star-Git-oss/Flutter-Auction-App/tree/master/images">More images</a>
+<a href="https://github.com/Star-Git-oss/flutter-Auction-App/tree/master/images">More images</a>
 
 ## Getting Started
 
